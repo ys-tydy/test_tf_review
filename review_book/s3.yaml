@@ -1,0 +1,7 @@
+aws_s3_bucket:
+-
+  title: tag_checker
+  description: check
+  tag:
+    key: name
+    regex: .*
